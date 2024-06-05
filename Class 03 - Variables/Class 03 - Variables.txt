@@ -1,0 +1,20 @@
+>>>myname="Jay"
+Example of create variable, can declare variable like ls = "Hello again" buat need $ls if you want print using echo
+
+>>>echo $myname
+example of print the variable
+
+>>>exit
+Exit the session, so all variable already declare will missing
+
+>>>files=$(ls)
+(ls) is subshell so the value of $files will be value of printed ls
+
+>>>date
+current date and time
+
+>>>$USER
+Example of global variable
+
+>>>env
+for check all global variable
