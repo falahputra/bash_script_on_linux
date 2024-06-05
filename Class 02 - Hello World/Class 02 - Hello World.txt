@@ -1,0 +1,30 @@
+>>>ls
+LS Stand for List Storage or current working directory
+
+>>>echo $SHELL
+Tell which shell actualy using, in this case bash
+
+>>>which bash
+Tell us what we need to enter in command line to start using bash
+
+>>>nano myscript.sh
+Create empty textfile if not have same file name else edit file arelady exists
+
+>>> sudo chmod +x myscript.sh
+Change the permission of file
++x = enable to execute the textfile as if it was a program basically script
+
+>>>ls -l
+same as ls before but add long listing
+
+>>>./myscript.sh
+Execute the script
+
+>>>cat myscript.sh
+Open text inside the file myscript.sh
+
+>>>pwd
+show current working directory
+
+>>>echo
+Show the value in terminal

@@ -1,0 +1,18 @@
+Course Outline
+1. Introduction & Welcome
+2. Hello World
+3. Variables
+4. Math Functions
+5. If Statements
+6. Exit Codes
+7. While Loops
+8. Universal Update Script
+9. For loops
+10. Filesystem Location for Scripts
+11. data Streams
+12. Functions
+13. Case Statements
+14. Scheduling Jobs (Part 1)
+15. Scheduling Jobs (Part 2)
+16. Arguments
+17. Creating a Backup Script
