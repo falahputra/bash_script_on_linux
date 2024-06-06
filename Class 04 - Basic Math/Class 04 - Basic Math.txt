@@ -1,0 +1,12 @@
+>>>expr 30 + 10
+Example math using expression
+
+>>>expr 30 \* 10
+Example for multiple
+
+>>>mynum1=100
+Exmaple save value to variable
+
+
+>>>expr $mynum1 + 40
+Exmaple calculation of variable

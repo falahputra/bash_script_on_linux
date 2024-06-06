@@ -1,0 +1,29 @@
+>>>mynum=200
+
+if [ ! $mynum -eq 200 ]
+then
+    echo "The condition is true."
+then
+    echo "The else of condition"
+>>>fi
+we can add ! in condition it mean inverse of the condition when true give ! it will false
+example of condition,. fi backword of if and close it
+Condition:
+-eq = equivalent (=)
+-ne = not equal (!=)
+-gt = grater than (>=)
+
+>>-f ~/myfile
+-f stand for file and ~/myfile name and directory of the file
+
+>>-d ~/myfile
+-d stand for directory and ~/myfile directory 
+
+>>>touch name_file
+Will create the file if is not already present, but if present will update modification of the file
+
+>>>sudo apt update && sudo apt install -y htop
+It will update, && mean second command will run if first command successfuly run -y mean yes for bypass the equestion and the name of installation is htop
+
+>>>man test
+man page for the test command
